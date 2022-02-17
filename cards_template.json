@@ -1,0 +1,29 @@
+{
+	"cards": [
+		{
+			"cardName": "The Hour of Twilight",
+			"character": "Toichiro",
+			"affinity": "SPD",
+			"rarity": "SSR",
+			"awakenings": 4,
+			"leaderSkill": 40,
+			"PWR": 6092,
+			"TECH": 4357,
+			"SPD": 10224,
+			"is_current_birthday_card": false
+
+		},
+		{
+			"cardName": "",
+			"character": "",
+			"affinity": "",
+			"rarity": "",
+			"awakenings":,
+			"leaderSkill": ,
+			"PWR": ,
+			"TECH": ,
+			"SPD": ,
+			"is_current_birthday_card": 
+		}
+	]
+}
